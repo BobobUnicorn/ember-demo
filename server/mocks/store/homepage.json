@@ -1,0 +1,19 @@
+{
+  "title": "Ember Store",
+  "id": "STORE-HOME-MAIN",
+  "banners": [{"bid":"1","url":"http://i.imgur.com/dpQQOhk.jpg"}, {"bid":"2","url":"http://i.imgur.com/Vn1H8o9.jpg"}],
+  "backgrounds": [{"bgid":"1","url":"http://i.imgur.com/YkBScQk.png"}, {"bgid":"2","url":"http://i.imgur.com/XI7fa.png"}],
+  "containers": [{
+    "title": "Container 1",
+    "banners": [{"bid":"1","url":"http://i.imgur.com/dpQQOhk.jpg"}, {"bid":"2","url":"http://i.imgur.com/Vn1H8o9.jpg"}],
+    "backgrounds": [{"bgid":"1","url":"http://i.imgur.com/YkBScQk.png"}, {"bgid":"2","url":"http://i.imgur.com/XI7fa.png"}]
+  }, {
+    "title": "Container 2",
+    "banners": [{"bid":"1","url":"http://i.imgur.com/dpQQOhk.jpg"}, {"bid":"2","url":"http://i.imgur.com/Vn1H8o9.jpg"}],
+    "backgrounds": [{"bgid":"1","url":"http://i.imgur.com/YkBScQk.png"}, {"bgid":"2","url":"http://i.imgur.com/XI7fa.png"}]
+  }, {
+    "title": "Container 3",
+    "banners": [{"bid":"1","url":"http://i.imgur.com/dpQQOhk.jpg"}, {"bid":"2","url":"http://i.imgur.com/Vn1H8o9.jpg"}],
+    "backgrounds": [{"bgid":"1","url":"http://i.imgur.com/YkBScQk.png"}, {"bgid":"2","url":"http://i.imgur.com/XI7fa.png"}]
+  }]
+}

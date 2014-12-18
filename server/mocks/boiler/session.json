@@ -1,0 +1,11 @@
+{
+  "data": {
+    "id": "1a1a1a1a1a1a1a1a1a1a1a",
+    "country": "US",
+    "language": "en"
+  },
+  "header": {
+    "status": "0x0000",
+    "message": "success"
+  }
+}
